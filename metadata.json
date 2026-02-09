@@ -1,0 +1,7 @@
+{
+  "name": "CHAT BOT HOC TOAN 8",
+  "description": "Ứng dụng học tập tương tác giúp học sinh lớp 8 làm chủ 7 hằng đẳng thức đáng nhớ thông qua lý thuyết, trò chơi và gia sư ảo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
